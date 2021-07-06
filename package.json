@@ -1,0 +1,21 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "Solution files for NodeSchool's learnyounode",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobogomez/learnyounode.git"
+  },
+  "author": "Jacobo Gómez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jacobogomez/learnyounode/issues"
+  },
+  "homepage": "https://github.com/jacobogomez/learnyounode#readme",
+  "dependencies": {
+    "through2-map": "^3.0.0"
+  }
+}
